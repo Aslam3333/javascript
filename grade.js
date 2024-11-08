@@ -70,6 +70,8 @@ for (let i = 0;i < car.length;i++) {
     
 }
 console.log(text);
-
+//grade
+let sum=1
+let 
 
 
